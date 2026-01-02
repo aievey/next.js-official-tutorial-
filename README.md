@@ -8,8 +8,9 @@ I am doing this because:
 
 > To avoid the desperation of "what next" in deep dive sessions.
 
-#Notes
+# Notes
 
-- For styling: Tailwind in corporation with clsx
+- For styling: Tailwind in corporation with clsx for conditional styling
+- 
 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
